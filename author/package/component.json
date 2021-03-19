@@ -1,0 +1,10 @@
+{
+    "package": "author/package",
+    "type": "section",
+    "description": "component for modern layouts",
+    "payload": {
+      "section_text": "lorem Ipsum dolor sit.",
+      "section_img": "img/example.jpg",
+      "section_img_alt": "seo for image"
+    }
+}
